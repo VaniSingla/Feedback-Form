@@ -20,7 +20,7 @@ This is a full-stack feedback form application where users can submit their feed
 - API: REST (POST /feedback)
 
 ## Project Structure
-
+```
 feedback-form/
 │
 ├── backend/
@@ -35,14 +35,16 @@ feedback-form/
 │
 ├── .gitignore
 └── README.md
+```
 
 ## How to Run Locally
 
 1. Start Backend
-
+```
 cd backend
 npm install
 npm start
+```
 
 👉 Backend runs on: http://localhost:3000
 
